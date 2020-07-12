@@ -9,10 +9,10 @@ You will need the Python3 installed on your system along with [OpenCV](https://d
 ### To install OpenCV
 Open the system's command prompt and type in the following command `pip install opencv-python`
 
-### To install Bokeh
+### To install bokeh
 Open the system's command prompt and type in the following command `pip install bokeh`
 
-### To install Pandas
+### To install pandas
 Open the system's command prompt and type in the following command `pip install pandas`
 
 
