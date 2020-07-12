@@ -29,7 +29,7 @@ MAC users should use `pip3 install package_name` for installing packages and `py
 
 ### For a detailed explanation on the usage and application of the above programs please watch the following video: ['De-Techt.mp4'](https://github.com/Saswata13/De-Techt/blob/master/De-Techt.mp4?raw=true) from the above directory.
 
-### For a detailed explanation about the idea, working and the 3 main applications, please see the presentation: (https://drive.google.com/drive/u/0/folders/1fPy1Sed5TweSfuhY6DOTFi9bGT65hKQy) in google drive.
+### For a detailed explanation about the idea, working and the 3 main applications, please see the presentation: (https://drive.google.com/file/d/1oNhZE7sUEUNAxqYBky1WpRpKg7VB92Z2/view?usp=sharing) in google drive.
 
 ### MADE BY:
 * SASWATA MUKHERJEE  
