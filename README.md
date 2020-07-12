@@ -1,4 +1,4 @@
-# De-Techt
+# DE-TECHT DOCUMENTATION
 ## What is it?
 This is a pretty basic motion detection project.
 It can be used to perform two elaborate tasks if implemented and applied with proper infrastructure: 
